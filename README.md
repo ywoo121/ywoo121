@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 아 배고프다  
-휴학하고 재밌어 보이는 것들을 해야지
+재밌어 보이는 것들을 해야지
