@@ -15,12 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-아 배고프다  
-<!-- 재밌어 보이는 것들을 해야지
-
-지금은
-swift, kotlin & spring, js, Unity 재밌어보여서 건드는 중
-그리고 갑자기 진짜 뜬금없는데 아두이노 아님 파이썬 배우고 싶다. -->
-
-졸려
+Soongsil Univ. Computer Science
