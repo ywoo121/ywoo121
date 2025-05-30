@@ -6,6 +6,7 @@ A **passionate** and **growing** developer
 ## 📬 About Me
 <details>
 <summary>Logs</summary>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ywoo121)](https://solved.ac/ywoo121/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywoo121&layout=compact"><br><br>
