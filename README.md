@@ -7,6 +7,7 @@
 
 개발 중 마주한 문제나 학습한 내용을 정리해 공유하며, 꾸준한 기록을 통해 더 나은 개발자가 되기 위해 노력하고 있습니다.   
 백엔드 개발자로서 성장하고 싶은 저는, 단순히 코드를 넘어서 함께 성장하는 기술 생태계의 일원이 되고자 합니다.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywoo121&layout=compact"><br><br>
 
 ## 🌱 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ywoo121)](https://solved.ac/ywoo121/)
